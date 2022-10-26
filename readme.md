@@ -32,6 +32,16 @@ ahakuoku simutrans addon license version 3.0 (ASAL 3.0)を適用します。
 - Pakset配布の必要がある場合とは、NSやセーブデータ配布などのことを指します。
 - 本作品を利用したことによる損害は一切責任を負いません。
 
+# 謝辞
+本アドオンの製作にあたり、次のアドオンを参考にさせていただきました。
+- [それなりにそれっぽいインフラアドオン集](https://simutrans-portal.128-bit.net/articles/infrastructure-of-sorenarini-soreppoi-series)（128な人様）
+
+また、次のツールを利用させていただきました。
+- [特殊色消すやつ（仮）](http://midorigaoka.starfree.jp/test/)（あるみどり様）
+
+その他、多数の方からアドバイスをいただきました。  
+感謝申し上げます。
+
 # 内容
 - 一般道 30km/h センターラインなし 歩道なし(単/中)
 - 一般道 70km/h オレンジセンターライン 歩道なし(単/中)
