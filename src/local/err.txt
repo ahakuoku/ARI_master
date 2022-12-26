@@ -1,5 +1,5 @@
 writing file ARI_local.pak
-   reading file ARI_local.dat
+   reading file ./ARI_local.dat
       packing way.ARI_suburb_ground_70_white_single
       packing way.ARI_suburb_ground_70_white_back
       packing way.ARI_suburb_ground_70_white_center
