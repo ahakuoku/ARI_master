@@ -1,10 +1,14 @@
 writing file ARI_local.pak
-   reading file ./ARI_local.dat
+   reading file ARI_local.dat
       packing way.ARI_suburb_ground_70_white_single
       packing way.ARI_suburb_ground_70_white_back
       packing way.ARI_suburb_ground_70_white_center
       packing way.ARI_suburb_ground_70_white_front
       packing way.ARI_suburb_ground_70_white_small-intersection
+      packing way.ARI_suburb_ground_70_white_diagonal-intersection_1
+      packing way.ARI_suburb_ground_70_white_diagonal-intersection_2
+      packing way.ARI_suburb_ground_70_white_diagonal-intersection_3
+      packing way.ARI_suburb_ground_70_white_diagonal-intersection_4
       packing way.ARI_suburb_ground_70_orange_single
       packing way.ARI_suburb_ground_70_orange_center
       packing way.ARI_suburb_ground_70_orange_small-intersection
@@ -15,6 +19,10 @@ writing file ARI_local.pak
       packing way.ARI_suburb_elevated_70_white_center
       packing way.ARI_suburb_elevated_70_white_front
       packing way.ARI_suburb_elevated_70_white_small-intersection
+      packing way.ARI_suburb_elevated_70_white_diagonal-intersection_1
+      packing way.ARI_suburb_elevated_70_white_diagonal-intersection_2
+      packing way.ARI_suburb_elevated_70_white_diagonal-intersection_3
+      packing way.ARI_suburb_elevated_70_white_diagonal-intersection_4
       packing way.ARI_suburb_elevated_70_orange_single
       packing way.ARI_suburb_elevated_70_orange_center
       packing way.ARI_suburb_elevated_70_orange_small-intersection
