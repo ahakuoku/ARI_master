@@ -5,7 +5,7 @@
 #
 #-------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_white_single_standard_aha
+name=ARI_suburb_ground_70_white_single
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -46,7 +46,7 @@ imageup2[3]=ARI_road_suburb_70_white_single_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_white_single_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_white_back_standard_aha
+name=ARI_suburb_ground_70_white_back
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -87,7 +87,7 @@ imageup2[3]=ARI_road_suburb_70_white_back_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_white_back_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_white_center_standard_aha
+name=ARI_suburb_ground_70_white_center
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -128,7 +128,7 @@ imageup2[3]=ARI_road_suburb_70_white_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_white_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_white_front_standard_aha
+name=ARI_suburb_ground_70_white_front
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -169,7 +169,7 @@ imageup2[3]=ARI_road_suburb_70_white_front_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_white_front_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_white_single_small-intersection_aha
+name=ARI_suburb_ground_70_white_small-intersection
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -210,7 +210,7 @@ imageup2[3]=ARI_road_suburb_70_white_single_small-intersection_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_white_single_small-intersection_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_white_center_diagonal-intersection-1_aha
+name=ARI_suburb_ground_70_white_diagonal-intersection_1
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -251,7 +251,7 @@ imageup2[3]=ARI_road_suburb_70_white_center_diagonal-intersection-1_aha.6.2,-64,
 imageup2[6]=ARI_road_suburb_70_white_center_diagonal-intersection-1_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_white_single_diagonal-intersection-2_aha
+name=ARI_suburb_ground_70_white_diagonal-intersection_2
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -292,7 +292,7 @@ imageup2[3]=ARI_road_suburb_70_white_single_diagonal-intersection-2_aha.6.2,-64,
 imageup2[6]=ARI_road_suburb_70_white_single_diagonal-intersection-2_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_orange_single_standard_aha
+name=ARI_suburb_ground_70_orange_single
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -333,7 +333,7 @@ imageup2[3]=ARI_road_suburb_70_orange_single_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_orange_single_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_orange_center_standard_aha
+name=ARI_suburb_ground_70_orange_center
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -374,7 +374,7 @@ imageup2[3]=ARI_road_suburb_70_orange_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_orange_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_orange_single_small-intersection_aha
+name=ARI_suburb_ground_70_orange_small-intersection
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -415,7 +415,7 @@ imageup2[3]=ARI_road_suburb_70_orange_single_small-intersection_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_orange_single_small-intersection_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_orange_center_diagonal-intersection-1_aha
+name=ARI_suburb_ground_70_orange_diagonal-intersection_1
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -456,7 +456,7 @@ imageup2[3]=ARI_road_suburb_70_orange_center_diagonal-intersection-1_aha.6.2,-64
 imageup2[6]=ARI_road_suburb_70_orange_center_diagonal-intersection-1_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_70_orange_single_diagonal-intersection-2_aha
+name=ARI_suburb_ground_70_orange_diagonal-intersection_2
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -497,7 +497,7 @@ imageup2[3]=ARI_road_suburb_70_orange_single_diagonal-intersection-2_aha.6.2,-64
 imageup2[6]=ARI_road_suburb_70_orange_single_diagonal-intersection-2_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_30_none_single_standard_aha
+name=ARI_suburb_ground_30_none_single
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -538,7 +538,7 @@ imageup2[3]=ARI_road_suburb_30_none_single_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_30_none_single_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_ground_30_none_center_standard_aha
+name=ARI_suburb_ground_30_none_center
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -579,7 +579,7 @@ imageup2[3]=ARI_road_suburb_30_none_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_30_none_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_white_single_standard_aha
+name=ARI_suburb_elevated_70_white_single
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -620,7 +620,7 @@ imageup2[3]=ARI_road_suburb_70_white_single_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_white_single_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_white_back_standard_aha
+name=ARI_suburb_elevated_70_white_back
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -661,7 +661,7 @@ imageup2[3]=ARI_road_suburb_70_white_back_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_white_back_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_white_center_standard_aha
+name=ARI_suburb_elevated_70_white_center
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -702,7 +702,7 @@ imageup2[3]=ARI_road_suburb_70_white_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_white_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_white_front_standard_aha
+name=ARI_suburb_elevated_70_white_front
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -743,7 +743,7 @@ imageup2[3]=ARI_road_suburb_70_white_front_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_white_front_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_white_single_small-intersection_aha
+name=ARI_suburb_elevated_70_white_small-intersection
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -784,7 +784,7 @@ imageup2[3]=ARI_road_suburb_70_white_single_small-intersection_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_white_single_small-intersection_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_white_center_diagonal-intersection-1_aha
+name=ARI_suburb_elevated_70_white_diagonal-intersection_1
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -825,7 +825,7 @@ imageup2[3]=ARI_road_suburb_70_white_center_diagonal-intersection-1_aha.6.2,-64,
 imageup2[6]=ARI_road_suburb_70_white_center_diagonal-intersection-1_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_white_single_diagonal-intersection-2_aha
+name=ARI_suburb_elevated_70_white_diagonal-intersection_2
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -866,7 +866,7 @@ imageup2[3]=ARI_road_suburb_70_white_single_diagonal-intersection-2_aha.6.2,-64,
 imageup2[6]=ARI_road_suburb_70_white_single_diagonal-intersection-2_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_orange_single_standard_aha
+name=ARI_suburb_elevated_70_orange_single
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -907,7 +907,7 @@ imageup2[3]=ARI_road_suburb_70_orange_single_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_orange_single_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_orange_center_standard_aha
+name=ARI_suburb_elevated_70_orange_center
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -948,7 +948,7 @@ imageup2[3]=ARI_road_suburb_70_orange_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_orange_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_orange_single_small-intersection_aha
+name=ARI_suburb_elevated_70_orange_small-intersection
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -989,7 +989,7 @@ imageup2[3]=ARI_road_suburb_70_orange_single_small-intersection_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_70_orange_single_small-intersection_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_orange_center_diagonal-intersection-1_aha
+name=ARI_suburb_elevated_70_orange_diagonal-intersection_1
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1030,7 +1030,7 @@ imageup2[3]=ARI_road_suburb_70_orange_center_diagonal-intersection-1_aha.6.2,-64
 imageup2[6]=ARI_road_suburb_70_orange_center_diagonal-intersection-1_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_70_orange_single_diagonal-intersection-2_aha
+name=ARI_suburb_elevated_70_orange_diagonal-intersection_2
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1071,7 +1071,7 @@ imageup2[3]=ARI_road_suburb_70_orange_single_diagonal-intersection-2_aha.6.2,-64
 imageup2[6]=ARI_road_suburb_70_orange_single_diagonal-intersection-2_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_30_none_single_standard_aha
+name=ARI_suburb_elevated_30_none_single
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1112,7 +1112,7 @@ imageup2[3]=ARI_road_suburb_30_none_single_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_30_none_single_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_30_none_center_standard_aha
+name=ARI_suburb_elevated_30_none_center
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1153,7 +1153,7 @@ imageup2[3]=ARI_road_suburb_30_none_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_suburb_30_none_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_none_ground_30_center_standard_aha
+name=ARI_none_ground_center_30
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -1194,7 +1194,7 @@ imageup2[3]=ARI_road_none_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_none_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_none_elevated_30_center_standard_aha
+name=ARI_none_elevated_center_30
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1235,7 +1235,7 @@ imageup2[3]=ARI_road_none_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_none_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_none_ground_70_center_standard_aha
+name=ARI_none_ground_center_70
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=0
@@ -1276,7 +1276,7 @@ imageup2[3]=ARI_road_none_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_none_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_none_elevated_70_center_standard_aha
+name=ARI_none_elevated_center_70
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1317,7 +1317,7 @@ imageup2[3]=ARI_road_none_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_none_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_tram_none_single_intersection_aha
+name=ARI_suburb_tram_intersection
 copyright=ARI Project Team(ahakuoku)
 waytype=tram_track
 system_type=0
