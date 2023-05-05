@@ -1,0 +1,400 @@
+-----------------------------------------------
+Obj=way
+Name=ARI_tram-crossing_95_bascule_back_np_KSN
+Copyright=ARI Project Team(ahakuoku/Kitasumi)
+
+Intro_year=1800
+Intro_month=1
+#Retire_year=9999
+#Retire_month=12
+waytype=tram_track
+#system_type=
+cost=15000
+maintenance=340
+topspeed=95
+max_weight=1000
+draw_as_ding=0
+
+icon=>ARI_tram-crossing_95_bascule_back_np_KSN.0.8
+cursor=ARI_tram-crossing_95_bascule_back_np_KSN.0.4
+
+Image[N][0]=ARI_tram-crossing_95_bascule_back_np_KSN.    0.0
+Image[S][0]=ARI_tram-crossing_95_bascule_back_np_KSN.    0.1
+Image[E][0]=ARI_tram-crossing_95_bascule_back_np_KSN.    0.2
+Image[W][0]=ARI_tram-crossing_95_bascule_back_np_KSN.    0.3
+Image[NS][0]=ARI_tram-crossing_95_bascule_back_np_KSN.   0.4
+Image[EW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.   0.5
+Image[NSEW][0]=ARI_tram-crossing_95_bascule_back_np_KSN. 0.6
+Image[NSEW1][0]=ARI_tram-crossing_95_bascule_back_np_KSN.0.6
+Image[NSEW2][0]=ARI_tram-crossing_95_bascule_back_np_KSN.0.6
+Image[-][0]=ARI_tram-crossing_95_bascule_back_np_KSN.    0.7
+
+frontImage[N][0]=ARI_tram-crossing_95_bascule_back_np_KSN.    1.0
+frontImage[S][0]=ARI_tram-crossing_95_bascule_back_np_KSN.    1.1
+frontImage[E][0]=ARI_tram-crossing_95_bascule_back_np_KSN.    1.2
+frontImage[W][0]=ARI_tram-crossing_95_bascule_back_np_KSN.    1.3
+frontImage[NS][0]=ARI_tram-crossing_95_bascule_back_np_KSN.   1.4
+frontImage[EW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.   1.5
+frontImage[NSEW][0]=ARI_tram-crossing_95_bascule_back_np_KSN. 1.6
+frontImage[NSEW1][0]=ARI_tram-crossing_95_bascule_back_np_KSN.1.6
+frontImage[NSEW2][0]=ARI_tram-crossing_95_bascule_back_np_KSN.1.6
+frontImage[-][0]=ARI_tram-crossing_95_bascule_back_np_KSN.    1.7
+
+Image[NE][0]=ARI_tram-crossing_95_bascule_back_np_KSN.2.0
+Image[SE][0]=ARI_tram-crossing_95_bascule_back_np_KSN.2.1
+Image[NW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.2.2
+Image[SW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.2.3
+
+frontImage[NE][0]=ARI_tram-crossing_95_bascule_back_np_KSN.3.0
+frontImage[SE][0]=ARI_tram-crossing_95_bascule_back_np_KSN.3.1
+frontImage[NW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.3.2
+frontImage[SW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.3.3
+
+Image[NSE][0]=ARI_tram-crossing_95_bascule_back_np_KSN.4.0
+Image[NSW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.4.1
+Image[NEW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.4.2
+Image[SEW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.4.3
+
+frontImage[NSE][0]=ARI_tram-crossing_95_bascule_back_np_KSN.5.0
+frontImage[NSW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.5.1
+frontImage[NEW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.5.2
+frontImage[SEW][0]=ARI_tram-crossing_95_bascule_back_np_KSN.5.3
+
+Image[NSE1][0]=ARI_tram-crossing_95_bascule_back_np_KSN.6.0
+Image[NSW1][0]=ARI_tram-crossing_95_bascule_back_np_KSN.6.1
+Image[NEW1][0]=ARI_tram-crossing_95_bascule_back_np_KSN.6.2
+Image[SEW1][0]=ARI_tram-crossing_95_bascule_back_np_KSN.6.3
+Image[NSE2][0]=ARI_tram-crossing_95_bascule_back_np_KSN.6.4
+Image[NSW2][0]=ARI_tram-crossing_95_bascule_back_np_KSN.6.5
+Image[NEW2][0]=ARI_tram-crossing_95_bascule_back_np_KSN.6.6
+Image[SEW2][0]=ARI_tram-crossing_95_bascule_back_np_KSN.6.7
+
+frontImage[NSE1][0]=ARI_tram-crossing_95_bascule_back_np_KSN.7.0
+frontImage[NSW1][0]=ARI_tram-crossing_95_bascule_back_np_KSN.7.1
+frontImage[NEW1][0]=ARI_tram-crossing_95_bascule_back_np_KSN.7.2
+frontImage[SEW1][0]=ARI_tram-crossing_95_bascule_back_np_KSN.7.3
+frontImage[NSE2][0]=ARI_tram-crossing_95_bascule_back_np_KSN.7.4
+frontImage[NSW2][0]=ARI_tram-crossing_95_bascule_back_np_KSN.7.5
+frontImage[NEW2][0]=ARI_tram-crossing_95_bascule_back_np_KSN.7.6
+frontImage[SEW2][0]=ARI_tram-crossing_95_bascule_back_np_KSN.7.7
+
+ImageUp[3][0]=ARI_tram-crossing_95_bascule_back_np_KSN.  8.0
+ImageUp[6][0]=ARI_tram-crossing_95_bascule_back_np_KSN.  8.1
+ImageUp[9][0]=ARI_tram-crossing_95_bascule_back_np_KSN.  8.2
+ImageUp[12][0]=ARI_tram-crossing_95_bascule_back_np_KSN. 8.3
+ImageUp2[3][0]=ARI_tram-crossing_95_bascule_back_np_KSN. 8.4
+ImageUp2[6][0]=ARI_tram-crossing_95_bascule_back_np_KSN. 8.5
+ImageUp2[9][0]=ARI_tram-crossing_95_bascule_back_np_KSN. 8.6
+ImageUp2[12][0]=ARI_tram-crossing_95_bascule_back_np_KSN.8.7
+
+frontImageUp[3][0]=ARI_tram-crossing_95_bascule_back_np_KSN.  9.0
+frontImageUp[6][0]=ARI_tram-crossing_95_bascule_back_np_KSN.  9.1
+frontImageUp[9][0]=ARI_tram-crossing_95_bascule_back_np_KSN.  9.2
+frontImageUp[12][0]=ARI_tram-crossing_95_bascule_back_np_KSN. 9.3
+frontImageUp2[3][0]=ARI_tram-crossing_95_bascule_back_np_KSN. 9.4
+frontImageUp2[6][0]=ARI_tram-crossing_95_bascule_back_np_KSN. 9.5
+frontImageUp2[9][0]=ARI_tram-crossing_95_bascule_back_np_KSN. 9.6
+frontImageUp2[12][0]=ARI_tram-crossing_95_bascule_back_np_KSN.9.7
+
+
+
+-----------------------------------------------
+Obj=way
+Name=ARI_tram-crossing_95_bascule_center_np_KSN
+Copyright=ARI Project Team(ahakuoku/Kitasumi)
+
+Intro_year=1800
+Intro_month=1
+#Retire_year=9999
+#Retire_month=12
+waytype=tram_track
+#system_type=
+cost=15000
+maintenance=340
+topspeed=95
+max_weight=1000
+draw_as_ding=0
+
+icon=>ARI_tram-crossing_95_bascule_center_np_KSN.1.8
+cursor=ARI_tram-crossing_95_bascule_center_np_KSN.0.4
+
+Image[N][0]=ARI_tram-crossing_95_bascule_center_np_KSN.    0.0
+Image[S][0]=ARI_tram-crossing_95_bascule_center_np_KSN.    0.1
+Image[E][0]=ARI_tram-crossing_95_bascule_center_np_KSN.    0.2
+Image[W][0]=ARI_tram-crossing_95_bascule_center_np_KSN.    0.3
+Image[NS][0]=ARI_tram-crossing_95_bascule_center_np_KSN.   0.4
+Image[EW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.   0.5
+Image[NSEW][0]=ARI_tram-crossing_95_bascule_center_np_KSN. 0.6
+Image[NSEW1][0]=ARI_tram-crossing_95_bascule_center_np_KSN.0.6
+Image[NSEW2][0]=ARI_tram-crossing_95_bascule_center_np_KSN.0.6
+Image[-][0]=ARI_tram-crossing_95_bascule_center_np_KSN.    0.7
+
+frontImage[N][0]=ARI_tram-crossing_95_bascule_center_np_KSN.    1.0
+frontImage[S][0]=ARI_tram-crossing_95_bascule_center_np_KSN.    1.1
+frontImage[E][0]=ARI_tram-crossing_95_bascule_center_np_KSN.    1.2
+frontImage[W][0]=ARI_tram-crossing_95_bascule_center_np_KSN.    1.3
+frontImage[NS][0]=ARI_tram-crossing_95_bascule_center_np_KSN.   1.4
+frontImage[EW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.   1.5
+frontImage[NSEW][0]=ARI_tram-crossing_95_bascule_center_np_KSN. 1.6
+frontImage[NSEW1][0]=ARI_tram-crossing_95_bascule_center_np_KSN.1.6
+frontImage[NSEW2][0]=ARI_tram-crossing_95_bascule_center_np_KSN.1.6
+frontImage[-][0]=ARI_tram-crossing_95_bascule_center_np_KSN.    1.7
+
+Image[NE][0]=ARI_tram-crossing_95_bascule_center_np_KSN.2.0
+Image[SE][0]=ARI_tram-crossing_95_bascule_center_np_KSN.2.1
+Image[NW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.2.2
+Image[SW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.2.3
+
+frontImage[NE][0]=ARI_tram-crossing_95_bascule_center_np_KSN.3.0
+frontImage[SE][0]=ARI_tram-crossing_95_bascule_center_np_KSN.3.1
+frontImage[NW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.3.2
+frontImage[SW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.3.3
+
+Image[NSE][0]=ARI_tram-crossing_95_bascule_center_np_KSN.4.0
+Image[NSW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.4.1
+Image[NEW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.4.2
+Image[SEW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.4.3
+
+frontImage[NSE][0]=ARI_tram-crossing_95_bascule_center_np_KSN.5.0
+frontImage[NSW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.5.1
+frontImage[NEW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.5.2
+frontImage[SEW][0]=ARI_tram-crossing_95_bascule_center_np_KSN.5.3
+
+Image[NSE1][0]=ARI_tram-crossing_95_bascule_center_np_KSN.6.0
+Image[NSW1][0]=ARI_tram-crossing_95_bascule_center_np_KSN.6.1
+Image[NEW1][0]=ARI_tram-crossing_95_bascule_center_np_KSN.6.2
+Image[SEW1][0]=ARI_tram-crossing_95_bascule_center_np_KSN.6.3
+Image[NSE2][0]=ARI_tram-crossing_95_bascule_center_np_KSN.6.4
+Image[NSW2][0]=ARI_tram-crossing_95_bascule_center_np_KSN.6.5
+Image[NEW2][0]=ARI_tram-crossing_95_bascule_center_np_KSN.6.6
+Image[SEW2][0]=ARI_tram-crossing_95_bascule_center_np_KSN.6.7
+
+frontImage[NSE1][0]=ARI_tram-crossing_95_bascule_center_np_KSN.7.0
+frontImage[NSW1][0]=ARI_tram-crossing_95_bascule_center_np_KSN.7.1
+frontImage[NEW1][0]=ARI_tram-crossing_95_bascule_center_np_KSN.7.2
+frontImage[SEW1][0]=ARI_tram-crossing_95_bascule_center_np_KSN.7.3
+frontImage[NSE2][0]=ARI_tram-crossing_95_bascule_center_np_KSN.7.4
+frontImage[NSW2][0]=ARI_tram-crossing_95_bascule_center_np_KSN.7.5
+frontImage[NEW2][0]=ARI_tram-crossing_95_bascule_center_np_KSN.7.6
+frontImage[SEW2][0]=ARI_tram-crossing_95_bascule_center_np_KSN.7.7
+
+ImageUp[3][0]=ARI_tram-crossing_95_bascule_center_np_KSN.  8.0
+ImageUp[6][0]=ARI_tram-crossing_95_bascule_center_np_KSN.  8.1
+ImageUp[9][0]=ARI_tram-crossing_95_bascule_center_np_KSN.  8.2
+ImageUp[12][0]=ARI_tram-crossing_95_bascule_center_np_KSN. 8.3
+ImageUp2[3][0]=ARI_tram-crossing_95_bascule_center_np_KSN. 8.4
+ImageUp2[6][0]=ARI_tram-crossing_95_bascule_center_np_KSN. 8.5
+ImageUp2[9][0]=ARI_tram-crossing_95_bascule_center_np_KSN. 8.6
+ImageUp2[12][0]=ARI_tram-crossing_95_bascule_center_np_KSN.8.7
+
+frontImageUp[3][0]=ARI_tram-crossing_95_bascule_center_np_KSN.  9.0
+frontImageUp[6][0]=ARI_tram-crossing_95_bascule_center_np_KSN.  9.1
+frontImageUp[9][0]=ARI_tram-crossing_95_bascule_center_np_KSN.  9.2
+frontImageUp[12][0]=ARI_tram-crossing_95_bascule_center_np_KSN. 9.3
+frontImageUp2[3][0]=ARI_tram-crossing_95_bascule_center_np_KSN. 9.4
+frontImageUp2[6][0]=ARI_tram-crossing_95_bascule_center_np_KSN. 9.5
+frontImageUp2[9][0]=ARI_tram-crossing_95_bascule_center_np_KSN. 9.6
+frontImageUp2[12][0]=ARI_tram-crossing_95_bascule_center_np_KSN.9.7
+
+
+
+-----------------------------------------------
+Obj=way
+Name=ARI_tram-crossing_95_bascule_front_np_KSN
+Copyright=ARI Project Team(ahakuoku/Kitasumi)
+
+Intro_year=1800
+Intro_month=1
+#Retire_year=9999
+#Retire_month=12
+waytype=tram_track
+#system_type=
+cost=15000
+maintenance=340
+topspeed=95
+max_weight=1000
+draw_as_ding=0
+
+icon=>ARI_tram-crossing_95_bascule_front_np_KSN.2.8
+cursor=ARI_tram-crossing_95_bascule_front_np_KSN.0.4
+
+Image[N][0]=ARI_tram-crossing_95_bascule_front_np_KSN.    0.0
+Image[S][0]=ARI_tram-crossing_95_bascule_front_np_KSN.    0.1
+Image[E][0]=ARI_tram-crossing_95_bascule_front_np_KSN.    0.2
+Image[W][0]=ARI_tram-crossing_95_bascule_front_np_KSN.    0.3
+Image[NS][0]=ARI_tram-crossing_95_bascule_front_np_KSN.   0.4
+Image[EW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.   0.5
+Image[NSEW][0]=ARI_tram-crossing_95_bascule_front_np_KSN. 0.6
+Image[NSEW1][0]=ARI_tram-crossing_95_bascule_front_np_KSN.0.6
+Image[NSEW2][0]=ARI_tram-crossing_95_bascule_front_np_KSN.0.6
+Image[-][0]=ARI_tram-crossing_95_bascule_front_np_KSN.    0.7
+
+frontImage[N][0]=ARI_tram-crossing_95_bascule_front_np_KSN.    1.0
+frontImage[S][0]=ARI_tram-crossing_95_bascule_front_np_KSN.    1.1
+frontImage[E][0]=ARI_tram-crossing_95_bascule_front_np_KSN.    1.2
+frontImage[W][0]=ARI_tram-crossing_95_bascule_front_np_KSN.    1.3
+frontImage[NS][0]=ARI_tram-crossing_95_bascule_front_np_KSN.   1.4
+frontImage[EW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.   1.5
+frontImage[NSEW][0]=ARI_tram-crossing_95_bascule_front_np_KSN. 1.6
+frontImage[NSEW1][0]=ARI_tram-crossing_95_bascule_front_np_KSN.1.6
+frontImage[NSEW2][0]=ARI_tram-crossing_95_bascule_front_np_KSN.1.6
+frontImage[-][0]=ARI_tram-crossing_95_bascule_front_np_KSN.    1.7
+
+Image[NE][0]=ARI_tram-crossing_95_bascule_front_np_KSN.2.0
+Image[SE][0]=ARI_tram-crossing_95_bascule_front_np_KSN.2.1
+Image[NW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.2.2
+Image[SW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.2.3
+
+frontImage[NE][0]=ARI_tram-crossing_95_bascule_front_np_KSN.3.0
+frontImage[SE][0]=ARI_tram-crossing_95_bascule_front_np_KSN.3.1
+frontImage[NW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.3.2
+frontImage[SW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.3.3
+
+Image[NSE][0]=ARI_tram-crossing_95_bascule_front_np_KSN.4.0
+Image[NSW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.4.1
+Image[NEW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.4.2
+Image[SEW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.4.3
+
+frontImage[NSE][0]=ARI_tram-crossing_95_bascule_front_np_KSN.5.0
+frontImage[NSW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.5.1
+frontImage[NEW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.5.2
+frontImage[SEW][0]=ARI_tram-crossing_95_bascule_front_np_KSN.5.3
+
+Image[NSE1][0]=ARI_tram-crossing_95_bascule_front_np_KSN.6.0
+Image[NSW1][0]=ARI_tram-crossing_95_bascule_front_np_KSN.6.1
+Image[NEW1][0]=ARI_tram-crossing_95_bascule_front_np_KSN.6.2
+Image[SEW1][0]=ARI_tram-crossing_95_bascule_front_np_KSN.6.3
+Image[NSE2][0]=ARI_tram-crossing_95_bascule_front_np_KSN.6.4
+Image[NSW2][0]=ARI_tram-crossing_95_bascule_front_np_KSN.6.5
+Image[NEW2][0]=ARI_tram-crossing_95_bascule_front_np_KSN.6.6
+Image[SEW2][0]=ARI_tram-crossing_95_bascule_front_np_KSN.6.7
+
+frontImage[NSE1][0]=ARI_tram-crossing_95_bascule_front_np_KSN.7.0
+frontImage[NSW1][0]=ARI_tram-crossing_95_bascule_front_np_KSN.7.1
+frontImage[NEW1][0]=ARI_tram-crossing_95_bascule_front_np_KSN.7.2
+frontImage[SEW1][0]=ARI_tram-crossing_95_bascule_front_np_KSN.7.3
+frontImage[NSE2][0]=ARI_tram-crossing_95_bascule_front_np_KSN.7.4
+frontImage[NSW2][0]=ARI_tram-crossing_95_bascule_front_np_KSN.7.5
+frontImage[NEW2][0]=ARI_tram-crossing_95_bascule_front_np_KSN.7.6
+frontImage[SEW2][0]=ARI_tram-crossing_95_bascule_front_np_KSN.7.7
+
+ImageUp[3][0]=ARI_tram-crossing_95_bascule_front_np_KSN.  8.0
+ImageUp[6][0]=ARI_tram-crossing_95_bascule_front_np_KSN.  8.1
+ImageUp[9][0]=ARI_tram-crossing_95_bascule_front_np_KSN.  8.2
+ImageUp[12][0]=ARI_tram-crossing_95_bascule_front_np_KSN. 8.3
+ImageUp2[3][0]=ARI_tram-crossing_95_bascule_front_np_KSN. 8.4
+ImageUp2[6][0]=ARI_tram-crossing_95_bascule_front_np_KSN. 8.5
+ImageUp2[9][0]=ARI_tram-crossing_95_bascule_front_np_KSN. 8.6
+ImageUp2[12][0]=ARI_tram-crossing_95_bascule_front_np_KSN.8.7
+
+frontImageUp[3][0]=ARI_tram-crossing_95_bascule_front_np_KSN.  9.0
+frontImageUp[6][0]=ARI_tram-crossing_95_bascule_front_np_KSN.  9.1
+frontImageUp[9][0]=ARI_tram-crossing_95_bascule_front_np_KSN.  9.2
+frontImageUp[12][0]=ARI_tram-crossing_95_bascule_front_np_KSN. 9.3
+frontImageUp2[3][0]=ARI_tram-crossing_95_bascule_front_np_KSN. 9.4
+frontImageUp2[6][0]=ARI_tram-crossing_95_bascule_front_np_KSN. 9.5
+frontImageUp2[9][0]=ARI_tram-crossing_95_bascule_front_np_KSN. 9.6
+frontImageUp2[12][0]=ARI_tram-crossing_95_bascule_front_np_KSN.9.7
+
+
+
+-----------------------------------------------
+Obj=way
+Name=ARI_tram-crossing_95_bascule_single_np_KSN
+Copyright=ARI Project Team(ahakuoku/Kitasumi)
+
+Intro_year=1800
+Intro_month=1
+#Retire_year=9999
+#Retire_month=12
+waytype=tram_track
+#system_type=
+cost=15000
+maintenance=340
+topspeed=95
+max_weight=1000
+draw_as_ding=0
+
+icon=>ARI_tram-crossing_95_bascule_single_np_KSN.3.8
+cursor=ARI_tram-crossing_95_bascule_single_np_KSN.0.4
+
+Image[N][0]=ARI_tram-crossing_95_bascule_single_np_KSN.    0.0
+Image[S][0]=ARI_tram-crossing_95_bascule_single_np_KSN.    0.1
+Image[E][0]=ARI_tram-crossing_95_bascule_single_np_KSN.    0.2
+Image[W][0]=ARI_tram-crossing_95_bascule_single_np_KSN.    0.3
+Image[NS][0]=ARI_tram-crossing_95_bascule_single_np_KSN.   0.4
+Image[EW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.   0.5
+Image[NSEW][0]=ARI_tram-crossing_95_bascule_single_np_KSN. 0.6
+Image[NSEW1][0]=ARI_tram-crossing_95_bascule_single_np_KSN.0.6
+Image[NSEW2][0]=ARI_tram-crossing_95_bascule_single_np_KSN.0.6
+Image[-][0]=ARI_tram-crossing_95_bascule_single_np_KSN.    0.7
+
+frontImage[N][0]=ARI_tram-crossing_95_bascule_single_np_KSN.    1.0
+frontImage[S][0]=ARI_tram-crossing_95_bascule_single_np_KSN.    1.1
+frontImage[E][0]=ARI_tram-crossing_95_bascule_single_np_KSN.    1.2
+frontImage[W][0]=ARI_tram-crossing_95_bascule_single_np_KSN.    1.3
+frontImage[NS][0]=ARI_tram-crossing_95_bascule_single_np_KSN.   1.4
+frontImage[EW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.   1.5
+frontImage[NSEW][0]=ARI_tram-crossing_95_bascule_single_np_KSN. 1.6
+frontImage[NSEW1][0]=ARI_tram-crossing_95_bascule_single_np_KSN.1.6
+frontImage[NSEW2][0]=ARI_tram-crossing_95_bascule_single_np_KSN.1.6
+frontImage[-][0]=ARI_tram-crossing_95_bascule_single_np_KSN.    1.7
+
+Image[NE][0]=ARI_tram-crossing_95_bascule_single_np_KSN.2.0
+Image[SE][0]=ARI_tram-crossing_95_bascule_single_np_KSN.2.1
+Image[NW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.2.2
+Image[SW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.2.3
+
+frontImage[NE][0]=ARI_tram-crossing_95_bascule_single_np_KSN.3.0
+frontImage[SE][0]=ARI_tram-crossing_95_bascule_single_np_KSN.3.1
+frontImage[NW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.3.2
+frontImage[SW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.3.3
+
+Image[NSE][0]=ARI_tram-crossing_95_bascule_single_np_KSN.4.0
+Image[NSW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.4.1
+Image[NEW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.4.2
+Image[SEW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.4.3
+
+frontImage[NSE][0]=ARI_tram-crossing_95_bascule_single_np_KSN.5.0
+frontImage[NSW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.5.1
+frontImage[NEW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.5.2
+frontImage[SEW][0]=ARI_tram-crossing_95_bascule_single_np_KSN.5.3
+
+Image[NSE1][0]=ARI_tram-crossing_95_bascule_single_np_KSN.6.0
+Image[NSW1][0]=ARI_tram-crossing_95_bascule_single_np_KSN.6.1
+Image[NEW1][0]=ARI_tram-crossing_95_bascule_single_np_KSN.6.2
+Image[SEW1][0]=ARI_tram-crossing_95_bascule_single_np_KSN.6.3
+Image[NSE2][0]=ARI_tram-crossing_95_bascule_single_np_KSN.6.4
+Image[NSW2][0]=ARI_tram-crossing_95_bascule_single_np_KSN.6.5
+Image[NEW2][0]=ARI_tram-crossing_95_bascule_single_np_KSN.6.6
+Image[SEW2][0]=ARI_tram-crossing_95_bascule_single_np_KSN.6.7
+
+frontImage[NSE1][0]=ARI_tram-crossing_95_bascule_single_np_KSN.7.0
+frontImage[NSW1][0]=ARI_tram-crossing_95_bascule_single_np_KSN.7.1
+frontImage[NEW1][0]=ARI_tram-crossing_95_bascule_single_np_KSN.7.2
+frontImage[SEW1][0]=ARI_tram-crossing_95_bascule_single_np_KSN.7.3
+frontImage[NSE2][0]=ARI_tram-crossing_95_bascule_single_np_KSN.7.4
+frontImage[NSW2][0]=ARI_tram-crossing_95_bascule_single_np_KSN.7.5
+frontImage[NEW2][0]=ARI_tram-crossing_95_bascule_single_np_KSN.7.6
+frontImage[SEW2][0]=ARI_tram-crossing_95_bascule_single_np_KSN.7.7
+
+ImageUp[3][0]=ARI_tram-crossing_95_bascule_single_np_KSN.  8.0
+ImageUp[6][0]=ARI_tram-crossing_95_bascule_single_np_KSN.  8.1
+ImageUp[9][0]=ARI_tram-crossing_95_bascule_single_np_KSN.  8.2
+ImageUp[12][0]=ARI_tram-crossing_95_bascule_single_np_KSN. 8.3
+ImageUp2[3][0]=ARI_tram-crossing_95_bascule_single_np_KSN. 8.4
+ImageUp2[6][0]=ARI_tram-crossing_95_bascule_single_np_KSN. 8.5
+ImageUp2[9][0]=ARI_tram-crossing_95_bascule_single_np_KSN. 8.6
+ImageUp2[12][0]=ARI_tram-crossing_95_bascule_single_np_KSN.8.7
+
+frontImageUp[3][0]=ARI_tram-crossing_95_bascule_single_np_KSN.  9.0
+frontImageUp[6][0]=ARI_tram-crossing_95_bascule_single_np_KSN.  9.1
+frontImageUp[9][0]=ARI_tram-crossing_95_bascule_single_np_KSN.  9.2
+frontImageUp[12][0]=ARI_tram-crossing_95_bascule_single_np_KSN. 9.3
+frontImageUp2[3][0]=ARI_tram-crossing_95_bascule_single_np_KSN. 9.4
+frontImageUp2[6][0]=ARI_tram-crossing_95_bascule_single_np_KSN. 9.5
+frontImageUp2[9][0]=ARI_tram-crossing_95_bascule_single_np_KSN. 9.6
+frontImageUp2[12][0]=ARI_tram-crossing_95_bascule_single_np_KSN.9.7
+
+
+
