@@ -661,7 +661,7 @@ imageup2[3]=ARI_road_expwy_80_none_front_ramp-back_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_none_front_ramp-back_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_130_white_single_standard_aha
+name=ARI_road_expwy_elevated_130_white_single_standard_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -702,7 +702,7 @@ imageup2[3]=ARI_road_expwy_130_white_single_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_130_white_single_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_130_white_back_standard_aha
+name=ARI_road_expwy_elevated_130_white_back_standard_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -743,7 +743,7 @@ imageup2[3]=ARI_road_expwy_130_white_back_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_130_white_back_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_130_white_center_standard_aha
+name=ARI_road_expwy_elevated_130_white_center_standard_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -784,7 +784,7 @@ imageup2[3]=ARI_road_expwy_130_white_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_130_white_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_130_white_front_standard_aha
+name=ARI_road_expwy_elevated_130_white_front_standard_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -825,7 +825,7 @@ imageup2[3]=ARI_road_expwy_130_white_front_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_130_white_front_standard_aha.6.3,-64,-32
 -------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_solid_single_standard_aha
+name=ARI_road_expwy_elevated_80_solid_single_standard_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -866,7 +866,7 @@ imageup2[3]=ARI_road_expwy_80_solid_single_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_solid_single_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_solid_back_standard_aha
+name=ARI_road_expwy_elevated_80_solid_back_standard_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -907,7 +907,7 @@ imageup2[3]=ARI_road_expwy_80_solid_back_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_solid_back_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_solid_center_standard_aha
+name=ARI_road_expwy_elevated_80_solid_center_standard_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -948,7 +948,7 @@ imageup2[3]=ARI_road_expwy_80_solid_center_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_solid_center_standard_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_solid_front_standard_aha
+name=ARI_road_expwy_elevated_80_solid_front_standard_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -989,7 +989,7 @@ imageup2[3]=ARI_road_expwy_80_solid_front_standard_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_solid_front_standard_aha.6.3,-64,-32
 -------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_none_single_ramp-front_aha
+name=ARI_road_expwy_elevated_80_none_single_ramp-front_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1030,7 +1030,7 @@ imageup2[3]=ARI_road_expwy_80_none_single_ramp-front_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_none_single_ramp-front_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_none_back_ramp-front_aha
+name=ARI_road_expwy_elevated_80_none_back_ramp-front_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1071,7 +1071,7 @@ imageup2[3]=ARI_road_expwy_80_none_back_ramp-front_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_none_back_ramp-front_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_none_center_ramp-front_aha
+name=ARI_road_expwy_elevated_80_none_center_ramp-front_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1112,7 +1112,7 @@ imageup2[3]=ARI_road_expwy_80_none_center_ramp-front_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_none_center_ramp-front_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_none_front_ramp-front_aha
+name=ARI_road_expwy_elevated_80_none_front_ramp-front_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1153,7 +1153,7 @@ imageup2[3]=ARI_road_expwy_80_none_front_ramp-front_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_none_front_ramp-front_aha.6.3,-64,-32
 -------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_none_single_ramp-back_aha
+name=ARI_road_expwy_elevated_80_none_single_ramp-back_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1194,7 +1194,7 @@ imageup2[3]=ARI_road_expwy_80_none_single_ramp-back_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_none_single_ramp-back_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_none_back_ramp-back_aha
+name=ARI_road_expwy_elevated_80_none_back_ramp-back_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1235,7 +1235,7 @@ imageup2[3]=ARI_road_expwy_80_none_back_ramp-back_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_none_back_ramp-back_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_none_center_ramp-back_aha
+name=ARI_road_expwy_elevated_80_none_center_ramp-back_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
@@ -1276,7 +1276,7 @@ imageup2[3]=ARI_road_expwy_80_none_center_ramp-back_aha.6.2,-64,-32
 imageup2[6]=ARI_road_expwy_80_none_center_ramp-back_aha.6.3,-64,-32
 --------------------------------
 obj=way
-name=ARI_road_suburb_elevated_80_none_front_ramp-back_aha
+name=ARI_road_expwy_elevated_80_none_front_ramp-back_aha
 copyright=ARI Project Team(ahakuoku)
 waytype=road
 system_type=1
