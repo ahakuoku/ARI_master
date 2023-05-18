@@ -13,7 +13,7 @@ cost=24000
 maintenance=480
 topspeed=130
 max_weight=1000
-draw_as_ding=0
+draw_as_ding=1
 
 icon=>ARI_tram-crossing_130_bascule_back_op_KSN.0.8
 cursor=ARI_tram-crossing_130_bascule_back_op_KSN.0.4
@@ -113,7 +113,7 @@ cost=24000
 maintenance=480
 topspeed=130
 max_weight=1000
-draw_as_ding=0
+draw_as_ding=1
 
 icon=>ARI_tram-crossing_130_bascule_center_op_KSN.1.8
 cursor=ARI_tram-crossing_130_bascule_center_op_KSN.0.4
@@ -213,7 +213,7 @@ cost=24000
 maintenance=480
 topspeed=130
 max_weight=1000
-draw_as_ding=0
+draw_as_ding=1
 
 icon=>ARI_tram-crossing_130_bascule_front_op_KSN.2.8
 cursor=ARI_tram-crossing_130_bascule_front_op_KSN.0.4
@@ -313,7 +313,7 @@ cost=24000
 maintenance=480
 topspeed=130
 max_weight=1000
-draw_as_ding=0
+draw_as_ding=1
 
 icon=>ARI_tram-crossing_130_bascule_single_op_KSN.3.8
 cursor=ARI_tram-crossing_130_bascule_single_op_KSN.0.4
