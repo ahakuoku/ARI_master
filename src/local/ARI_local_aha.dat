@@ -1351,8 +1351,8 @@ backramp2[n]=ARI_road_suburb_30_none_single_bridge_aha.6.0,-64,-32
 backramp2[s]=ARI_road_suburb_30_none_single_bridge_aha.6.2,-64,-32
 backramp2[e]=ARI_road_suburb_30_none_single_bridge_aha.6.3,-64,-32
 backramp2[w]=ARI_road_suburb_30_none_single_bridge_aha.6.1,-64,-32
-backpillar[S]=-
-backpillar[W]=-
+backpillar[s]=-
+backpillar[w]=-
 --------------------------------
 obj=bridge
 name=ARI_road_suburb_bridge_70_white_single_standard_aha
@@ -1389,8 +1389,8 @@ backramp2[n]=ARI_road_suburb_70_white_single_bridge_aha.6.0,-64,-32
 backramp2[s]=ARI_road_suburb_70_white_single_bridge_aha.6.2,-64,-32
 backramp2[e]=ARI_road_suburb_70_white_single_bridge_aha.6.3,-64,-32
 backramp2[w]=ARI_road_suburb_70_white_single_bridge_aha.6.1,-64,-32
-backpillar[S]=-
-backpillar[W]=-
+backpillar[s]=-
+backpillar[w]=-
 --------------------------------
 obj=bridge
 name=ARI_road_suburb_bridge_70_orange_single_standard_aha
@@ -1427,8 +1427,8 @@ backramp2[n]=ARI_road_suburb_70_orange_single_bridge_aha.6.0,-64,-32
 backramp2[s]=ARI_road_suburb_70_orange_single_bridge_aha.6.2,-64,-32
 backramp2[e]=ARI_road_suburb_70_orange_single_bridge_aha.6.3,-64,-32
 backramp2[w]=ARI_road_suburb_70_orange_single_bridge_aha.6.1,-64,-32
-backpillar[S]=-
-backpillar[W]=-
+backpillar[s]=-
+backpillar[w]=-
 --------------------------------
 obj=way
 name=ARI_road_suburb_tram_none_single_intersection_aha
