@@ -10,7 +10,7 @@ Simutrans Pak128(.Japan)向けの道路アドオンセットです。
 # 使用条件
 ahakuoku simutrans addon license version 3.2 (ASAL 3.2)を適用します。
 
-## ASAL 3.1全文
+## ASAL 3.2全文
 利用者は、次の条件を守ることでこのアドオン・ツール等（以下、本作品）を自由にご利用いただけます。
 
 ### していいこと
