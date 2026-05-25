@@ -12,6 +12,6 @@ subprocess.call('makeobj pak256 ../../pak/temp/ARI_local_suburb_white_intersecti
 subprocess.call('makeobj pak256 ../../pak/temp/ARI_local_suburb_tram.pak suburb/tram/intersection/*.dat > err.txt', cwd=r"src/local")
 subprocess.call('makeobj merge pak/ARI_local.pak pak/temp/*.pak > err.txt')
 subprocess.call('makeobj pak256 ../../pak/ARI_expwy.pak ARI_expwy_aha.dat >> err.txt', cwd=r"src/expwy")
-subprocess.call('makeobj pak128 ../../pak/ARI_option/ARI_tram-crossing_np.pak ARI_tram-crossing_95_bascule_np_KSN.dat ARI_tram-crossing_95_hanged_np_KSN.dat ARI_tram-crossing_130_bascule_np_KSN.dat ARI_tram-crossing_130_hanged_np_KSN.dat > err.txt', cwd=r"src/local")
-subprocess.call('makeobj pak128 ../../pak/ARI_option/ARI_tram-crossing_op.pak ARI_tram-crossing_95_bascule_op_KSN.dat ARI_tram-crossing_95_hanged_op_KSN.dat ARI_tram-crossing_130_bascule_op_KSN.dat ARI_tram-crossing_130_hanged_op_KSN.dat > err.txt', cwd=r"src/local")
+subprocess.call('makeobj pak128 ../../pak/ARI_option/ARI_tram-crossing_np.pak ARI_tram-crossing_95_bascule_np_KSN.dat ARI_tram-crossing_95_hanged_np_KSN.dat ARI_tram-crossing_130_bascule_np_KSN.dat ARI_tram-crossing_130_hanged_np_KSN.dat > err.txt', cwd=r"src/crossing")
+subprocess.call('makeobj pak128 ../../pak/ARI_option/ARI_tram-crossing_op.pak ARI_tram-crossing_95_bascule_op_KSN.dat ARI_tram-crossing_95_hanged_op_KSN.dat ARI_tram-crossing_130_bascule_op_KSN.dat ARI_tram-crossing_130_hanged_op_KSN.dat > err.txt', cwd=r"src/crossing")
 shutil.rmtree('pak/temp/')
